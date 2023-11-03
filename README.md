@@ -6,6 +6,6 @@ Hamster Hotel
 
 Attempted to create and match a Hamster Hotel website with the provided prototype.
 
-Peer Reviewer:
+Peer Reviewer: Josue Rosales
 
-Peer Comments: 
+Peer Comments: The website is missing a few components and the code could be organized more but the buttons are working as intended.
