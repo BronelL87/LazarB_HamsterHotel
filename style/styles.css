@@ -1,0 +1,15 @@
+.bgNav {
+    background-color:#000324;
+}
+
+.bgWhi{
+    color: white;
+}
+
+.divCon{
+    height: 200px;
+    width: 50%;
+    background-color: #000324;
+    opacity: 0.5;
+}
+
